@@ -1,8 +1,8 @@
 {
-  "name": "paper-dashboard-react",
+  "name": "ProMania-front-end",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://creativetimofficial.github.io/paper-dashboard-react/#/dashboard",
+  "homepage": "",
   "dependencies": {
     "@types/react": "16.4.16",
     "bootstrap": "4.1.3",
